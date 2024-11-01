@@ -10,7 +10,8 @@
       { "category": "Inde", "footprint": 1.9 },
       { "category": "Allemagne", "footprint": 8.6 },
       { "category": "Brésil", "footprint": 2.2 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Mix énergétique en Europe",
