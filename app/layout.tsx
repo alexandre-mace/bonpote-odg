@@ -37,9 +37,9 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${phudu.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} ${phudu.variable} bg-bonpote-sand antialiased`}
       >
-        <div className={"border-b bg-bonpote-sand px-2 py-4 md:px-0"}>
+        <div className={"border-b px-2 py-4 md:px-0"}>
           <div
             className={"container mx-auto flex max-w-7xl justify-between gap-4"}
           >
