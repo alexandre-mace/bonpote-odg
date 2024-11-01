@@ -40,7 +40,7 @@ export function BarChartWithLabels({
 }: {
   title: string;
   description: string;
-  data: never;
+  data: { category: string; footprint: number }[];
   emoji: string;
 }) {
   return (
