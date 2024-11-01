@@ -59,10 +59,14 @@ export default function RootLayout({
             </div>
             <div className={"flex items-center gap-2"}>
               <Button variant={"default"} asChild>
-                <a href="https://fr.tipeee.com/bon-pote">Soutenir BonPote</a>
+                <a target={"_blank"} href="https://fr.tipeee.com/bon-pote">
+                  Soutenir BonPote
+                </a>
               </Button>
               <Button variant={"outline"} asChild>
-                <a href="https://bonpote.com/newsletter/">Nous suivre</a>
+                <a target={"_blank"} href="https://bonpote.com/newsletter/">
+                  Nous suivre
+                </a>
               </Button>
             </div>
           </div>
