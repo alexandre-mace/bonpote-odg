@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Émissions de CO₂ par pays",
+    "description": "Émissions de CO₂ en tonnes par habitant pour différents pays.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/factory_1f3ed.png",
+    "data": [
+      { "category": "États-Unis", "footprint": 15.2 },
+      { "category": "Chine", "footprint": 7.4 },
+      { "category": "France", "footprint": 5.1 },
+      { "category": "Inde", "footprint": 1.9 },
+      { "category": "Allemagne", "footprint": 8.6 },
+      { "category": "Brésil", "footprint": 2.2 }
+    ]
+  },
+  {
+    "title": "Mix énergétique en Europe",
+    "description": "Répartition des sources d'énergie dans le mix énergétique européen.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/globe-showing-europe-africa_1f30d.png",
+    "data": [
+      { "category": "Nucléaire", "footprint": 24 },
+      { "category": "Énergies renouvelables", "footprint": 35 },
+      { "category": "Gaz naturel", "footprint": 20 },
+      { "category": "Charbon", "footprint": 15 },
+      { "category": "Pétrole", "footprint": 6 }
+    ]
+  },
+  {
+    "title": "Empreinte carbone par mode de transport",
+    "description": "Comparaison des émissions de CO₂ pour différents modes de transport par km.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/airplane_2708-fe0f.png",
+    "data": [
+      { "category": "Avion", "footprint": 0.285 },
+      { "category": "Voiture (seul)", "footprint": 0.171 },
+      { "category": "Voiture (4 personnes)", "footprint": 0.043 },
+      { "category": "Train", "footprint": 0.028 },
+      { "category": "Bus", "footprint": 0.104 },
+      { "category": "Vélo", "footprint": 0 }
+    ]
+  },
+  {
+    "title": "Efforts individuels",
+    "description": "Réductions d'émissions de CO₂ possibles grâce à divers efforts individuels.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/person-lifting-weights_1f3cb-fe0f.png",
+    "data": [
+      { "category": "Réduire la consommation de viande", "footprint": 800 },
+      { "category": "Télétravail 2 jours par semaine", "footprint": 300 },
+      { "category": "Passer à un fournisseur d'électricité verte", "footprint": 1000 },
+      { "category": "Éteindre les appareils en veille", "footprint": 50 },
+      { "category": "Prendre les transports en commun", "footprint": 400 }
+    ]
+  },
+  {
+    "title": "Émissions de CO₂ par secteur",
+    "description": "Comparaison des émissions de CO₂ par secteur d'activité.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png",
+    "data": [
+      { "category": "Énergie", "footprint": 17.5 },
+      { "category": "Industrie", "footprint": 5.3 },
+      { "category": "Transports", "footprint": 7.8 },
+      { "category": "Agriculture", "footprint": 5.1 },
+      { "category": "Bâtiment", "footprint": 2.9 },
+      { "category": "Déchets", "footprint": 1.5 }
+    ]
+  },
+  {
+    "title": "Répartition des énergies renouvelables dans le monde",
+    "description": "Pourcentage de chaque source d'énergie renouvelable dans le mix global.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png",
+    "data": [
+      { "category": "Hydroélectrique", "footprint": 55 },
+      { "category": "Éolien", "footprint": 23 },
+      { "category": "Solaire", "footprint": 15 },
+      { "category": "Biomasse", "footprint": 5 },
+      { "category": "Géothermie", "footprint": 2 }
+    ]
+  },
+  {
+    "title": "Efforts de l'état",
+    "description": "Estimations des réductions de CO₂ par mesure mise en place par l'état.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/office-building_1f3e2.png",
+    "data": [
+      { "category": "Interdiction des véhicules thermiques en 2035", "footprint": 5000 },
+      { "category": "Réduction de la vitesse sur autoroute à 110 km/h", "footprint": 800 },
+      { "category": "Subventions pour les véhicules électriques", "footprint": 1500 },
+      { "category": "Aides à l'isolation thermique", "footprint": 700 },
+      { "category": "Développement des pistes cyclables", "footprint": 300 }
+    ]
+  },
+  {
+    "title": "Évolution des températures mondiales",
+    "description": "Augmentation des températures moyennes mondiales par décennie depuis 1960.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/thermometer_1f321-fe0f.png",
+    "data": [
+      { "category": "1960", "footprint": 13.9 },
+      { "category": "1970", "footprint": 14.0 },
+      { "category": "1980", "footprint": 14.2 },
+      { "category": "1990", "footprint": 14.4 },
+      { "category": "2000", "footprint": 14.6 },
+      { "category": "2010", "footprint": 14.8 },
+      { "category": "2020", "footprint": 15.1 }
+    ]
+  },
+  {
+    "title": "Consommation d'eau par secteur",
+    "description": "Répartition de la consommation mondiale d'eau par secteur.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/droplet_1f4a7.png",
+    "data": [
+      { "category": "Agriculture", "footprint": 2500 },
+      { "category": "Industrie", "footprint": 700 },
+      { "category": "Usage domestique", "footprint": 300 },
+      { "category": "Énergie", "footprint": 500 }
+    ]
+  },
+  {
+    "title": "Production de déchets par habitant",
+    "description": "Quantité moyenne de déchets générée par habitant par an dans différents pays.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/wastebasket_1f5d1-fe0f.png",
+    "data": [
+      { "category": "États-Unis", "footprint": 773 },
+      { "category": "France", "footprint": 560 },
+      { "category": "Japon", "footprint": 400 },
+      { "category": "Inde", "footprint": 130 },
+      { "category": "Brésil", "footprint": 380 }
+    ]
+  },
+  {
+    "title": "Impact des habitudes alimentaires",
+    "description": "Empreinte carbone annuelle en fonction des régimes alimentaires.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/leafy-green_1f96c.png",
+    "data": [
+      { "category": "Régime omnivore", "footprint": 2500 },
+      { "category": "Régime flexitarien", "footprint": 1800 },
+      { "category": "Régime végétarien", "footprint": 1200 },
+      { "category": "Régime végétalien", "footprint": 900 }
+    ]
+  },
+  {
+    "title": "Sources de pollution de l'air en milieu urbain",
+    "description": "Répartition des sources de pollution de l'air dans les villes.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/automobile_1f697.png",
+    "data": [
+      { "category": "Transports", "footprint": 45 },
+      { "category": "Industries", "footprint": 25 },
+      { "category": "Chauffage domestique", "footprint": 20 },
+      { "category": "Déchets", "footprint": 5 },
+      { "category": "Agriculture urbaine", "footprint": 5 }
+    ]
+  },
+  {
+    "title": "Consommation énergétique par type de bâtiment",
+    "description": "Consommation moyenne annuelle d'énergie par m² pour différents types de bâtiments.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/office-building_1f3e2.png",
+    "data": [
+      { "category": "Résidentiel", "footprint": 150 },
+      { "category": "Bureaux", "footprint": 250 },
+      { "category": "Commerces", "footprint": 300 },
+      { "category": "Industriel", "footprint": 400 },
+      { "category": "Hôpitaux", "footprint": 450 }
+    ]
+  },
+  {
+    "title": "Réduction de CO₂ par type d’énergie renouvelable",
+    "description": "Estimation des tonnes de CO₂ évitées par an grâce à différentes énergies renouvelables.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/light-bulb_1f4a1.png",
+    "data": [
+      { "category": "Solaire", "footprint": 150 },
+      { "category": "Éolien", "footprint": 200 },
+      { "category": "Hydroélectrique", "footprint": 300 },
+      { "category": "Biomasse", "footprint": 80 },
+      { "category": "Géothermie", "footprint": 50 }
+    ]
+  },
+  {
+    "title": "Confiance dans les sources d'énergie",
+    "description": "Pourcentage de population favorable aux différentes sources d'énergie.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/thumbs-up_1f44d.png",
+    "data": [
+      { "category": "Nucléaire", "footprint": 40 },
+      { "category": "Éolien", "footprint": 85 },
+      { "category": "Solaire", "footprint": 90 },
+      { "category": "Gaz naturel", "footprint": 60 },
+      { "category": "Charbon", "footprint": 20 }
+    ]
+  },
+  {
+    "title": "Croissance des véhicules électriques",
+    "description": "Nombre de véhicules électriques vendus par an dans le monde.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/electric-plug_1f50c.png",
+    "data": [
+      { "category": "2015", "footprint": 0.5 },
+      { "category": "2016", "footprint": 0.8 },
+      { "category": "2017", "footprint": 1.2 },
+      { "category": "2018", "footprint": 2.1 },
+      { "category": "2019", "footprint": 3.3 },
+      { "category": "2020", "footprint": 4.5 }
+    ]
+  },
+  {
+    "title": "Superficie des forêts protégées",
+    "description": "Évolution de la superficie mondiale des forêts protégées en millions d'hectares.",
+    "emoji": "https://em-content.zobj.net/source/microsoft-teams/363/deciduous-tree_1f333.png",
+    "data": [
+      { "category": "1990", "footprint": 320 },
+      { "category": "2000", "footprint": 400 },
+      { "category": "2010", "footprint": 450 },
+      { "category": "2020", "footprint": 500 }
+    ]
+  }
+]
