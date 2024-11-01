@@ -22,7 +22,8 @@
       { "category": "Gaz naturel", "footprint": 20 },
       { "category": "Charbon", "footprint": 15 },
       { "category": "Pétrole", "footprint": 6 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Empreinte carbone par mode de transport",
@@ -35,7 +36,8 @@
       { "category": "Train", "footprint": 0.028 },
       { "category": "Bus", "footprint": 0.104 },
       { "category": "Vélo", "footprint": 0 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Efforts individuels",
@@ -47,7 +49,8 @@
       { "category": "Passer à un fournisseur d'électricité verte", "footprint": 1000 },
       { "category": "Éteindre les appareils en veille", "footprint": 50 },
       { "category": "Prendre les transports en commun", "footprint": 400 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Émissions de CO₂ par secteur",
@@ -60,7 +63,8 @@
       { "category": "Agriculture", "footprint": 5.1 },
       { "category": "Bâtiment", "footprint": 2.9 },
       { "category": "Déchets", "footprint": 1.5 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Répartition des énergies renouvelables dans le monde",
@@ -72,7 +76,8 @@
       { "category": "Solaire", "footprint": 15 },
       { "category": "Biomasse", "footprint": 5 },
       { "category": "Géothermie", "footprint": 2 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Efforts de l'état",
@@ -84,7 +89,8 @@
       { "category": "Subventions pour les véhicules électriques", "footprint": 1500 },
       { "category": "Aides à l'isolation thermique", "footprint": 700 },
       { "category": "Développement des pistes cyclables", "footprint": 300 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Évolution des températures mondiales",
@@ -98,7 +104,8 @@
       { "category": "2000", "footprint": 14.6 },
       { "category": "2010", "footprint": 14.8 },
       { "category": "2020", "footprint": 15.1 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Consommation d'eau par secteur",
@@ -109,7 +116,8 @@
       { "category": "Industrie", "footprint": 700 },
       { "category": "Usage domestique", "footprint": 300 },
       { "category": "Énergie", "footprint": 500 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Production de déchets par habitant",
@@ -121,7 +129,8 @@
       { "category": "Japon", "footprint": 400 },
       { "category": "Inde", "footprint": 130 },
       { "category": "Brésil", "footprint": 380 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Impact des habitudes alimentaires",
@@ -132,7 +141,8 @@
       { "category": "Régime flexitarien", "footprint": 1800 },
       { "category": "Régime végétarien", "footprint": 1200 },
       { "category": "Régime végétalien", "footprint": 900 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Sources de pollution de l'air en milieu urbain",
@@ -144,7 +154,8 @@
       { "category": "Chauffage domestique", "footprint": 20 },
       { "category": "Déchets", "footprint": 5 },
       { "category": "Agriculture urbaine", "footprint": 5 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Consommation énergétique par type de bâtiment",
@@ -156,7 +167,8 @@
       { "category": "Commerces", "footprint": 300 },
       { "category": "Industriel", "footprint": 400 },
       { "category": "Hôpitaux", "footprint": 450 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Réduction de CO₂ par type d’énergie renouvelable",
@@ -168,7 +180,8 @@
       { "category": "Hydroélectrique", "footprint": 300 },
       { "category": "Biomasse", "footprint": 80 },
       { "category": "Géothermie", "footprint": 50 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Confiance dans les sources d'énergie",
@@ -180,7 +193,8 @@
       { "category": "Solaire", "footprint": 90 },
       { "category": "Gaz naturel", "footprint": 60 },
       { "category": "Charbon", "footprint": 20 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Croissance des véhicules électriques",
@@ -193,7 +207,8 @@
       { "category": "2018", "footprint": 2.1 },
       { "category": "2019", "footprint": 3.3 },
       { "category": "2020", "footprint": 4.5 }
-    ]
+    ],
+    "source": "https://google.com"
   },
   {
     "title": "Superficie des forêts protégées",
@@ -204,6 +219,7 @@
       { "category": "2000", "footprint": 400 },
       { "category": "2010", "footprint": 450 },
       { "category": "2020", "footprint": 500 }
-    ]
+    ],
+    "source": "https://google.com"
   }
 ]

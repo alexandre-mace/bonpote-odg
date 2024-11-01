@@ -6,6 +6,7 @@ import {
   Card,
   CardContent,
   CardDescription,
+  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -16,6 +17,8 @@ import {
   ChartTooltipContent,
 } from "@/components/ui/chart";
 import Image from "next/image";
+import { Button } from "@/components/ui/button";
+import { ExternalLink } from "lucide-react";
 
 const chartConfig = {
   footprint: {
@@ -37,11 +40,13 @@ export function BarChartWithLabels({
   description,
   data,
   emoji,
+  source,
 }: {
   title: string;
   description: string;
   data: { category: string; footprint: number }[];
   emoji: string;
+  source: string;
 }) {
   return (
     <Card>
@@ -98,14 +103,18 @@ export function BarChartWithLabels({
           </BarChart>
         </ChartContainer>
       </CardContent>
-      {/*<CardFooter className="flex-col items-start gap-2 text-sm">*/}
-      {/*    <div className="flex gap-2 font-medium leading-none">*/}
-      {/*        {title}*/}
-      {/*    </div>*/}
-      {/*    <div className="leading-none text-muted-foreground">*/}
-      {/*        {description}*/}
-      {/*    </div>*/}
-      {/*</CardFooter>*/}
+      <CardFooter className="flex-col items-start gap-2 pb-4 pt-0 text-sm">
+        <Button asChild variant={"link"} className={""}>
+          <a
+            target={"_blank"}
+            href={source}
+            className={"cursor-pointer text-muted-foreground"}
+          >
+            Voir la source
+            <ExternalLink className={"h-4 w-4"} />
+          </a>
+        </Button>
+      </CardFooter>
     </Card>
   );
 }

@@ -21,6 +21,7 @@ export default function Home() {
             data={datum.data}
             key={datum.title}
             emoji={datum.emoji}
+            source={datum.source}
           />
         ))}
       </div>
